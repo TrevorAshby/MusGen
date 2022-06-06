@@ -2,6 +2,8 @@ from torch.utils.data import Dataset, DataLoader
 import os
 import numpy as np
 import time
+from music_transformer import subsequent_mask
+from torch.autograd import Variable
 
 # musicautobot
 from musicautobot.numpy_encode import *
@@ -84,7 +86,7 @@ def create_ovlap_tensor(song_tensor, dset_dim):
     # print('subsects: ', num_subsects)
     # print('overlap: ', overlap_len)
     
-    print(ovlap_tensor.shape)
+    #print(ovlap_tensor.shape)
 
     for subsect in range(num_subsects): # 0 -> 148
         if subsect > int(num_subsects / 2):
@@ -108,7 +110,7 @@ class MidiDataset(Dataset):
         self.dset_dim = dset_dim
         self.device = device
         self.extension = extension
-        pass
+        
     def __getitem__(self, index):
         song_file = self.filenames[index]
         # load MusicItem from .npy extension
@@ -118,17 +120,17 @@ class MidiDataset(Dataset):
         # load MusicItem from .mid extension
         elif self.extension == '.mid':
             song_MuIt = MusicItem.from_file(self.folder_path + '/' + song_file, MusicVocab.create())
-        if self.device == 'cpu':
+        # if self.device == 'cpu':
             # this tensor is going to be too long, need to reshape
-            song_tensor = song_MuIt.to_tensor().cpu()
-            ovlap_tensor = create_ovlap_tensor(song_tensor, self.dset_dim)
+        song_tensor = song_MuIt.to_tensor().cpu()
+        ovlap_tensor = create_ovlap_tensor(song_tensor, self.dset_dim)
             # print('ovlap_tensor.shape: ', ovlap_tensor.shape)
-        elif self.device == 'gpu':
-            # this tensor is going to be too long, need to reshape
-            song_tensor = song_MuIt.to_tensor().cuda()
-            ovlap_tensor = create_ovlap_tensor(song_tensor, self.dset_dim)
-            del song_tensor
-            ovlap_tensor = ovlap_tensor.cuda()
+        # elif self.device == 'gpu':
+        #     # this tensor is going to be too long, need to reshape
+        #     song_tensor = song_MuIt.to_tensor()
+        #     ovlap_tensor = create_ovlap_tensor(song_tensor, self.dset_dim)
+        #     del song_tensor
+        #     ovlap_tensor = ovlap_tensor.cuda()
             # print('ovlap_tensor.shape: ', ovlap_tensor.shape)
 
         # return the overlapped tensor (subsectioned song)
@@ -137,12 +139,14 @@ class MidiDataset(Dataset):
         return len(self.filenames)
         #pass
 
-if __name__ == '__main__':
-    start = time.time()
-    myDs = MidiDataset('./src/numpy_path', 500, 'cpu', '.npy')
-    print(myDs[0].shape)
-    end = time.time()
-    print('np elapsed: ', end - start)
+# if __name__ == '__main__':
+#     start = time.time()
+#     myDs = MidiDataset('./src/numpy_path', 500, 'cpu', '.npy')
+#     print(myDs[0].shape)
+#     end = time.time()
+#     print('np elapsed: ', end - start)
+
+
     # start = time.time()
     # myDs2 = MidiDataset('./src/mid_data_collections/mid_0_to_10000', 120, 'cpu', '.mid')
     # print(myDs2[0])
