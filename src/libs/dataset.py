@@ -79,13 +79,10 @@ def create_ovlap_tensor(song_tensor, dset_dim):
     remainder = song_tensor.shape[0] % dset_dim
     num_subsects = int(song_tensor.shape[0] / dset_dim)
 
-    # FIXME: This is causing problems
-    #overlap_len = num_subsects - remainder
-
     ovlap_tensor = torch.zeros((num_subsects, dset_dim))
-    print('remainder: ', remainder)
-    print('subsects: ', num_subsects)
-    #print('overlap: ', overlap_len)
+    # print('remainder: ', remainder)
+    # print('subsects: ', num_subsects)
+    # print('overlap: ', overlap_len)
     
     print(ovlap_tensor.shape)
 
@@ -96,8 +93,8 @@ def create_ovlap_tensor(song_tensor, dset_dim):
         else:
             beg = (dset_dim * subsect)
             end = (dset_dim * (subsect + 1))
-        print('1: ', ovlap_tensor[subsect].shape)
-        print('2: ', len(song_tensor[beg:end]))
+        # print('1: ', ovlap_tensor[subsect].shape)
+        # print('2: ', len(song_tensor[beg:end]))
         ovlap_tensor[subsect] = song_tensor[beg:end]
     return ovlap_tensor
 
