@@ -12,10 +12,6 @@ from musicautobot.music_transformer import *
 from musicautobot.utils.midifile import *
 from musicautobot.utils.file_processing import process_all
 
-
-
-
-
 # step 3
 class Batch:
     "Object for holding a batch of data with mask during training."

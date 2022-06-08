@@ -465,7 +465,7 @@ Manolo Garcia   Nunca El Tiempo Es Perdido   TRBAAAB128F429240F
 Kenny Rogers   She Believes In Me   TRXISDW128F1456F5E
 Alex Britti   Gelido   TRMREVF128F92FAE6C
 Bee Gees   How Can You Mend A Broken Heart [Live - Las Vegas 1997] (Album Version)   TRNPRWX128F4243137
-Solomon   Piano Sonata No. 14 in C sharp minor Op. 27 No. 2 "Moonlight" (2008 Digital Remaster): II.     Allegretto   TRYWAGR128F42699CA
+Solomon   Piano Sonata No. 14 in C sharp minor Op. 27 No. 2 "Moonlight" (2008 Digital Remaster): II. Allegretto   TRYWAGR128F42699CA
 New Kids On The Block   You Got It (The Right Stuff)   TRCKIHC12903CD0B97
 Jack Nitzsche   Theme From Mondo Cane (More) (LP Version)   TRWALGO128F1473A9A
 I Set My Friends On Fire   Sh!t It Talks...I'm Out Of Here   TRJTLSC128F92D28A2
@@ -606,7 +606,7 @@ João Bosco   Papel Machê   TRXDASU128F9309C11
 The Guess Who   Laughing   TRJPEOW128F930959D
 The Cranberries   Zombie   TRGBWJL128F9332B52
 Don & Juan   What's Your Name   TRSPIWO12903CBB6A2
-Leif Ove Andsnes   Lyric Pieces_ Bk III Op. 43: I.       Butterfly (Schmetterling)   TRZYBWV128F426E29F
+Leif Ove Andsnes   Lyric Pieces_ Bk III Op. 43: I. Butterfly (Schmetterling)   TRZYBWV128F426E29F
 Shawn Mullins   All In My Head   TRQGQVB128F92F22A0
 Eli Young Band   Mystery In The Making   TRXQZSI128F92CDB01
 12 Stones   Fade Away   TRVGQQT128F9366EBC
@@ -1747,7 +1747,7 @@ Foo Fighters   Resolve   TRRVHWP128F42AD060
 Ha Ha Tonka   The Outpouring (Album)   TRBBCMY12903CB2833
 Alan Parsons   Blue Blue Sky   TRZZDTF12903CEC430
 The Mabels   Our Last Photo   TRPCFEK128F92FF278
-Academy of St Martin-in-the-Fields/Sir Neville Marriner   Symphony No. 40 in G minor K550: I.       Molto allegro   TRAIDRB128F14889C9
+Academy of St Martin-in-the-Fields/Sir Neville Marriner   Symphony No. 40 in G minor K550: I. Molto allegro   TRAIDRB128F14889C9
 Billy Idol   Sweet Sixteen (2001 Digital Remaster)   TRDQGSM128F1460983
 Paso Doble   Agenten   TRUDSZA128F428C500
 Greg Lake   C'Est La Vie   TRLSEBW12903CAC63F
@@ -2030,7 +2030,7 @@ Charlotte Diamond   Tout Ce Que Je Veux - La Paix   TRXGBVP128F933ABDE
 Café Tacvba   Encantamiento Inutil   TRYHBDY128F1459AF4
 Srebrna Krila   Otvori duau   TRSTLQD12903CE2DF5
 Roger Miller   King Of The Road   TROUNWQ128F421F386
-London Mozart Players/Jane Glover   Divertimento in F K138: I.   Allegro   TRPKEOT128F92E436C
+London Mozart Players/Jane Glover   Divertimento in F K138: I. Allegro   TRPKEOT128F92E436C
 Villa Nah   Running On   TRCMCHR12903CB5A9D
 Kurt Nilsen   Ordinary World   TRHRQAK128F42647B0
 Roger Waters   Towers Of Faith   TRHWQLL128F4279996
@@ -2720,7 +2720,7 @@ Bob James and David Sanborn   Maputo (Edit Version)   TRRBVSR128E07915F8
 DJ Connections   I Remember Beat Techno   TRNAEKI12903CAAD90
 Liz Callaway   Journey To The Past  (LP Version)   TRDFCNK12903C9AF28
 Keith Anderson   Podunk   TRYCNVN128F42A3B07
-Tracy Lawrence   I Hit The Ground Crawlin'   (LP Version)   TRFOHII12903CC2895
+Tracy Lawrence   I Hit The Ground Crawlin' (LP Version)   TRFOHII12903CC2895
 Jody McBrayer   Love Can Break Your Fall (Key-E-Gb-Premiere Performance Plus)   TRMHBIC128F9349FED
 Biquini Cavadão   Timidez   TRLTOOL128F92CFC61
 The Royal Philharmonic Orchestra   Careless Whisper   TRSWAKR12903CA6E8D
@@ -3096,7 +3096,7 @@ Paolo Nutini   New Shoes [Live & Acoustic Version]   TRTRBMV128F147338E
 David Allan Coe   Stand By Your Man   TRDYKWG128F4269066
 Novaspace   Time After Time (Time Mix)   TRDNNEX128F4290D00
 Max Morath   American Beauty   TRKUACO128F92F1E5E
-Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I.   Allegro   TRERJXT128F4259B50
+Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I. Allegro   TRERJXT128F4259B50
 Yvonne Catterfeld   Für Dich   TREQRUJ128F429F396
 Blake Lewis   Afraid   TRFWMMS12903CF754C
 The Party Group   Suerte   TRZTBXM128F4270861
@@ -3603,7 +3603,7 @@ Jem   They   TRGETHW128F93321E9
 Pink Floyd   Comfortably Numb (Live)   TRNBXOF128F42316F9
 F5   You Don't Know Me   TRDLMEA128EF35D1D3
 A Taste Of Honey   Boogie Oogie Oogie (Single Version 1)   TRYLBDR128F932A361
-Solomon   Piano Sonata No. 11 in A K331/300i (2008 Digital Remaster): II.   Menuetto   TRKBPPK128F4269A25
+Solomon   Piano Sonata No. 11 in A K331/300i (2008 Digital Remaster): II. Menuetto   TRKBPPK128F4269A25
 Unshine   Patron Saint (Remastered Demo 2003)   TRFVKCQ128F428107B
 Queen   Save Me (2009 Digital Remaster)   TRDBLXD128F930A5FF
 Tracy Lawrence   Crying Ain't Dying   TRHDTVU12903CF4811
@@ -4001,7 +4001,7 @@ Bloodhound Gang   The Ballad Of Chasey Lain   TRPXVJJ12903CE52E8
 Felicia Brandström   Put your records on   TRYORIM128F931A3EB
 Otep   Suicide Trees   TRRHVTR128E0783BC7
 Stockhausen Waterman   String 'Em Up   TRUFMQN128F9306CAF
-Martha Argerich/Piotr Anderszewski   Piano Sonata No. 16 in C K545: I.    Allegro   TRXXPAR128F147573E
+Martha Argerich/Piotr Anderszewski   Piano Sonata No. 16 in C K545: I. Allegro   TRXXPAR128F147573E
 Aerosmith   Dude (Looks Like A Lady)   TRIDZST128E079433E
 Robert Miles   FABLE   TRLHIMU128F423840C
 The Nolans   Gotta Pull Myself Together   TRVBYGD128F92F3816
@@ -5159,7 +5159,7 @@ Fleetwood Mac   Rhiannon [LP Version]   TRSQCFE128F9337C02
 Sade   Kiss Of Life   TRZUEKB128F42598D4
 André Hazes   Laat me   TRSTTDU128F4272F02
 Césaria Evora   Salamansa   TRAKHAY128F92D1C6B
-The Ocean Blue   Between Something and Nothing   (LP Version)   TRVEWLL128F92FCEDF
+The Ocean Blue   Between Something and Nothing (LP Version)   TRVEWLL128F92FCEDF
 Denga vs. Manus   Lost Love   TRQWCKO128F92DABB4
 Dirty South Feat. Rudy   Let It Go [Chocolate Puma Dub]   TRNEDHP128F92CCCDF
 Fabienne Louves   Bliib bi mer   TRLZWAO12903CCD3CE
@@ -5178,7 +5178,7 @@ Dennis Ferrer   Hit It Off (Original Mix)   TRGMWOJ12903CA62B5
 John Anderson   One Shot Deal   TRUOAVS128F931DD56
 Boston   Amanda   TRQWKDK128F426A901
 B.A.D.   Oh!I   TRWEINZ128F4271C7B
-Aretha Franklin   Dark End Of The Street   (LP Version)   TRELUYR128F4286D92
+Aretha Franklin   Dark End Of The Street (LP Version)   TRELUYR128F4286D92
 George Michael   Roxanne   TRGUKPU128F425A04A
 love like blood   Epitaph   TRWBPEG12903CE738E
 Helen Shapiro   It's In His Kiss (1998 Digital Remaster)   TRXLXFX128F145CA8D
@@ -5462,14 +5462,14 @@ Rally   Mina Njurar   TRUKWRX12903CB3398
 Syria   L'amore è (Album version)   TRGIOPL128E07878E9
 Mariano Yanani   One   TRMJGDA128F426954E
 Millie Jackson   All The Way Lover   TRJKZHG128F9328ED7
-The Clovers   Devil Or Angel   (Single/LP Version)   TREZEDF128F92E1270
+The Clovers   Devil Or Angel (Single/LP Version)   TREZEDF128F92E1270
 I Teppisti dei Sogni   Sole rosso   TRCCJJE128F42894CB
 Airbase   Medusa   TRVGIOP128F42A975C
 Fear Cult   Girls & Boys   TRIMVXU128F4275E4A
 Alex Neri   Housetrack   TRWCYWF128F9349CC7
 The Potbelleez   Don't Hold Back (Pot La More ClubDub)   TRJGAUC128F42556ED
 Ryan Adams   New York_ New York   TRGEMBS128F42ACDF6
-Academy of St Martin-in-the-Fields/Sir Neville Marriner   Serenade No. 13 in G 'Eine kleine Nachtmusik' K525 (1990 Digital Remaster): I.       Allegro   TROXCGD128F4217DA1
+Academy of St Martin-in-the-Fields/Sir Neville Marriner   Serenade No. 13 in G 'Eine kleine Nachtmusik' K525 (1990 Digital Remaster): I. Allegro   TROXCGD128F4217DA1
 Mojave 3   Tinkers Blues   TRPDBNV128F423F018
 They Might Be Giants   Turn Around (LP Version)   TRYQAAZ128F4241A08
 Ocean Colour Scene   The Downstream   TRBUUGA128EF342B1C
@@ -5754,7 +5754,7 @@ RICKY LYNN GREGG   Silver Wings   TRAGVSG128F42782F2
 Igor Kill   Hvis Eg   TRANHSO12903CF02CC
 THE THREE DEGREES   T.S.O.P. ( The Sound Of Philadelphia )   TRGCYZK128F4276DF0
 Audio Adrenaline   Some Kind Of Zombie   TRSODYD128F42698C2
-Mikhail Pletnev   The Seasons Op. 37b: IX.    Septembre (La chasse)   TRZTUTP128F427653C
+Mikhail Pletnev   The Seasons Op. 37b: IX. Septembre (La chasse)   TRZTUTP128F427653C
 Ivete Sangalo   Ta Tudo Bem   TRDKWUL128F9314177
 DJ Shah feat. Jan Johnston   Beautiful   TROTCIA128F9324306
 Neal McCoy   Completely (LP Version)   TROEFOI12903C9E856
@@ -5830,7 +5830,7 @@ Tina Turner   I Don't Wanna Fight (Single Edit)   TRPEGFC128E07990D0
 INOJ   Time After Time   TRTGAOS128F4271E72
 The Shields   You Cheated   TRYXNKJ128F93309F9
 John Legend   P.D.A. (We Just Don't Care)   TRNLFYZ128F42B3224
-Claudio Abbado   Oh_ my turtledoves!"   (Sergei Leiferkus_ Sergei Larin_ Marjana Lipov?ek)   TRLDXIZ128F426DA54
+Claudio Abbado   Oh_ my turtledoves!" (Sergei Leiferkus_ Sergei Larin_ Marjana Lipov?ek)   TRLDXIZ128F426DA54
 Joe Vitale   Interlude   TRSZTIS128F427659D
 Sebo K   Horizons   TRUKAQR128F42AAC1D
 The Corrs   Old Town [Album Version]   TRQVZZU128F146EED9
@@ -5939,7 +5939,7 @@ Ben Folds Five   Brick   TRSGKSO128F4266F15
 Nocturnal Rites   The Legend Lives On   TRIDQPS12903CF07A1
 Modern Talking   Should I_ Would I_ Could I   TRQIGHM128F4294E51
 R.E.M.   Perfect Circle (2006 Digital Remaster)   TRVARUM128F1484018
-Vern Gosdin   There Ain't Nothing Wrong (Just Ain't   Nothing Right)   TRYOUEU128F92C321D
+Vern Gosdin   There Ain't Nothing Wrong (Just Ain't Nothing Right)   TRYOUEU128F92C321D
 Faster Pussycat   Nonstop To Nowhere (LP Version)   TRBCTNL128F148615B
 Creed   Torn   TRHHVKV12903CCC60D
 Elvis Presley   I Got a Woman   TRALJJK12903C950D2
@@ -6976,7 +6976,7 @@ Green Day   Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05)   TRABUC
 Lorenzo Antonio   It's A Little Too Growded   TRQDEHG128F42733A8
 Chris and Mike   House of  the Rising Sun   TRWZZBC12903CEB831
 Joint Operation Centre   Jetlag Dancer   TRQKCBZ128F92E3E7F
-Sir Thomas Beecham/Royal Philharmonic Orchestra   I.    Daybreak - Dance from Florida Suite RTVI/1 (2001 Digital Remaster)   TROANLI128F425B9E8
+Sir Thomas Beecham/Royal Philharmonic Orchestra   I. Daybreak - Dance from Florida Suite RTVI/1 (2001 Digital Remaster)   TROANLI128F425B9E8
 Ike & Tina Turner   Nutbush City Limits   TRADUNI12903CF7586
 Louis Bertignac   Cendrillon - Version 97   TRFTRKT128F427D70D
 Mary Wells   My Guy   TRPEVEC128F4214949
@@ -7756,7 +7756,7 @@ Los Planetas   No Se Como Te atreves   TRRGKQZ12903CA2D5E
 Pet Shop Boys   I Wouldn't Normally Do This Kind Of Thing (2001 Digital Remaster)   TRVONUF128E0783004
 Céline Dion   I'm Alive   TRQROZC128F42836AD
 Ben's Brother   Carry On (New Radio Version)   TRRUUHV128F4298B1B
-Leif Ove Andsnes   Lyric Pieces_ Bk III Op. 43: I.       Butterfly (Schmetterling)   TRNTVGG128F9335943
+Leif Ove Andsnes   Lyric Pieces_ Bk III Op. 43: I. Butterfly (Schmetterling)   TRNTVGG128F9335943
 Kaiser Chiefs   Na Na Na Na Naa   TRRQXOZ128E07860F8
 Juliet Jonesin Sydan   Mirjami   TRGOZSD128F424EFFF
 Lola Ponce   I Can Do It   TRYOYLT128F42A4FD0
@@ -8447,7 +8447,7 @@ Shenandoah   Two Dozen Roses   TRAVXQE128F4266A79
 Mayday   Rock & Roll Can'T Save Your Life (Album Version)   TRXEJLX128F42930A7
 Bobby Vinton   Mr. Lonely   TRSIRLW128F427F242
 Carman   We Are Not Ashamed  (Mission 3:16 Album Version)   TRLQBHU128F4266EF2
-Academy of St Martin-in-the-Fields Chorus/Academy of St Martin-in-the-Fields/Sir Neville Marriner   Gloria in D RV589 (ed. Malipiero): I.    Gloria in excelsis Deo   TRSJKOV128F424B5D8
+Academy of St Martin-in-the-Fields Chorus/Academy of St Martin-in-the-Fields/Sir Neville Marriner   Gloria in D RV589 (ed. Malipiero): I. Gloria in excelsis Deo   TRSJKOV128F424B5D8
 Doves   Winter Hill (Instrumental)   TRUUXGQ128F92EBE45
 Robert Miles   Children   TRMOFPS128F93173DE
 Byron Lee & The Dragonaires   Candle In The Wind   TRWEEOW12903CDAF1E
@@ -8964,7 +8964,7 @@ The London Pops Orchestra   Canadian Sunset   TRGYETF128F92D8CCC
 Madonna   Into The Groove (Edit Version)   TRSIVJR128E0786BFD
 Dhany   Live Today   TRCSHZJ128F4278DDE
 Lou Gramm   Chain Of Love (LP Version)   TRZOTXQ12903CBDF8F
-Dennis Brain/Philharmonia Orchestra/Walter Susskind   Horn Concerto No. 2 in E flat K417 (2008 Digital Remaster): I.   Allegro maestoso   TRMKXXE128F42697FF
+Dennis Brain/Philharmonia Orchestra/Walter Susskind   Horn Concerto No. 2 in E flat K417 (2008 Digital Remaster): I. Allegro maestoso   TRMKXXE128F42697FF
 Effcee   She Sells Sanctuary   TREBATJ128F4259D4A
 Sandy Vee   Secret Love   TRXHFSK12903CDF9F3
 Mariano Yanani   Adagio Del Concierto De Aranjuez (J. Rodrigo)   TRDPEHM128F429B071
@@ -10088,7 +10088,7 @@ Werner Müller / RIAS Tanzorchester   All The Things You Are   TREQBPH128F9310A1
 Alf Robertson   Ingenting mera än en sång (Just A Song)   TRNEZSF128F92E44A4
 The Church   The Disillusionist   TRULPKG128F428EEF0
 Gary Maguire   Borderline (Original Mix)   TROLDHL128F92FE242
-Leif Ove Andsnes   Piano Sonata No. 3 in B minor Op.58: IV.     Finale: Presto non tanto   TRCPVZB128F426D117
+Leif Ove Andsnes   Piano Sonata No. 3 in B minor Op.58: IV. Finale: Presto non tanto   TRCPVZB128F426D117
 Talc   It's Only Perfect - Talc Present Man-boy featuring Girl   TRWCPHY128F92D1F5B
 Sviatoslav Richter_ Franz Schubert   Six Moments Musicaux_ Op. 94 (Selections): Moment Musicaux No. 3 in F Minor   TRCZUAF12903D0671B
 Man With No Name   East 98 Street   TRVEUIX128F9309981
@@ -11080,7 +11080,7 @@ Glenn Morrison   Playing With Ivory   TRNBTUV12903CA716B
 Browns   Three Bells   TRDFBZU12903CE395A
 Spartaque   Insomnia   TRLSWMF12903CB0842
 Studio 99   Before   TRJYWCO128F4257531
-London Mozart Players/Jane Glover   Serenade No. 13 in G 'Eine kleine Nachtmusik' K525: I.   Allegro   TRAFXIE128F92E435D
+London Mozart Players/Jane Glover   Serenade No. 13 in G 'Eine kleine Nachtmusik' K525: I. Allegro   TRAFXIE128F92E435D
 BarlowGirl   Have Yourself A Merry Little Christmas (Album Version)   TRVZMIG128F92CD8FE
 Johnny Paycheck   Walk Through This World With Me   TRTTXFC12903CAB406
 Phil Collins   Two Hearts (Live)   TRJJHUN128F14805B5
@@ -11435,7 +11435,7 @@ Ketama   No Estamos Lokos (Kalikeno)   TRDRFXO128F14918D8
 Evanescence   Call Me When You're Sober   TRCVVYK128F425AE08
 Connie Francis   Who's Sorry Now?   TRTWTUZ128F92F363A
 The Pop Hit Crew   The Name Of The Game   TRBMBSV128F930754D
-Sir Neville Marriner/Academy of St Martin-in-the-Fields   Symphony No. 34 in C K338: I.      Allegro vivace   TRLXLLG128F426195F
+Sir Neville Marriner/Academy of St Martin-in-the-Fields   Symphony No. 34 in C K338: I. Allegro vivace   TRLXLLG128F426195F
 Mia Martini   Minuetto   TRDVKOU128F92ED9B9
 The Advantage   Castlevania II - Woods   TRXHCXU128F9327493
 Jean Shepard   Sing Me An Old Fashioned Song   TRZLEHW128F92F9069
@@ -11476,7 +11476,7 @@ The Rascals   Groovin'   TRYFXJE12903CBFFC7
 Laura Nyro   Emmie   TRDJGCT128F93002A4
 Finegrind & Benson   Blowjob Part 3 - Rattlesnake Mix   TRUSXCW12903CA014C
 Rammstein   Stripped   TRRXGZG128F92E0D1D
-Royal Philharmonic Orchestra/Sir Thomas Beecham   Symphony No. 2 in D Op. 36 (1958 Digital Remaster): IV.     Allegro molto   TRJYONT128F425DC80
+Royal Philharmonic Orchestra/Sir Thomas Beecham   Symphony No. 2 in D Op. 36 (1958 Digital Remaster): IV. Allegro molto   TRJYONT128F425DC80
 Scouting for Girls   The Best Summer Yet   TRPMNXJ128F425B198
 Nena   Manchmal ist ein Tag ein ganzes Leben   TRSJIVP128F428415B
 Max Morath   Country Club   TRKSJKW128F92F1E5D
@@ -11490,7 +11490,7 @@ Nocturnal Rites   Dark Secret   TRCLGXI12903D02907
 Kanye West / Syleena Johnson   All Falls Down   TRWGTLF128F148D77F
 Los Del Sol   Macarena   TRXZLPX128F932D0B1
 The Jacksons   Blame It On The Boogie   TRFIIGS128F4265C05
-Leif Ove Andsnes   Piano Sonata No. 3 in B minor Op.58: III.     Largo   TRUDFHM128F426D114
+Leif Ove Andsnes   Piano Sonata No. 3 in B minor Op.58: III. Largo   TRUDFHM128F426D114
 The Blues Brothers   Everybody Needs Somebody To Love (LP Version)   TRQMDHZ12903CC115F
 Desireless   Voyage_ voyage (PWL - Britmix)   TRNNVMH128F932A51E
 Enya   To Go Beyond (II)   TRCMLOO128F423C33D
@@ -13074,7 +13074,7 @@ Lisa Stansfield   I'm Leavin'   TRSIRPX128F42955D9
 911   One More Try   TRBJCOC128F1469734
 Somerville_ Jimmy   Cry   TRBTCUK128F1473898
 Ruth   Hearts On Sleeves   TRNDTQJ128F92E16F2
-Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I.   Allegro (1997 Digital Remaster)   TRDKGYD128F4240F01
+Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I. Allegro (1997 Digital Remaster)   TRDKGYD128F4240F01
 Jahn Teigen   Sugar Baby Love   TRNCSXW12903CCDB74
 Gin Blossoms   Found Out About You   TRNJWCJ128F148D10A
 Spanky & Our Gang   Lazy Day   TREANLX128EF34990D
@@ -14840,7 +14840,7 @@ Armin Van Buuren Feat. Susana   If You Should Go   TRIPYKR128F92FB5C1
 Wham!   Wake Me Up Before You Go-Go   TRLEEUP12903CE26AF
 Tammy Wynette   Stand By Your Man   TRMHFMC128F425D630
 Julio Iglesias duet with Willie Nelson   Para Todas Las Chicas (To All The Girls I've Loved Before)   TRUIZTQ128F427181C
-Andrei Gavrilov/Academy of St Martin-in-the-Fields/Sir Neville Marriner/John Constable   Keyboard Concerto in D BWV1054: I.   [Allegro]   TRDDEMJ128EF34B43F
+Andrei Gavrilov/Academy of St Martin-in-the-Fields/Sir Neville Marriner/John Constable   Keyboard Concerto in D BWV1054: I. [Allegro]   TRDDEMJ128EF34B43F
 Gloria Gaynor   I Will Survive   TRUSPZB128F92E7B0C
 Soul Of Man   Killa Brew (Def Inc Remix)   TRCSWZT128F4298731
 Okay   Give Up   TRTKWFK12903CB24A1
@@ -15435,7 +15435,7 @@ J. Pachelbel   Canon Man   TRBJHJP12903D08D37
 Culture Box   I Wanna Want It   TRMOIRQ128F92E045D
 Sam & Dave   Soul Man   TRGDQUL128F92E5302
 Ocean Lab   Miracle   TRTZIMC128F92D7D39
-Royal Philharmonic Orchestra/Sir Thomas Beecham   Symphony No. 104 in D major_ 'London' (1992 Digital Remaster): IV.     Spiritoso   TRHLPYS128F4284FAB
+Royal Philharmonic Orchestra/Sir Thomas Beecham   Symphony No. 104 in D major_ 'London' (1992 Digital Remaster): IV. Spiritoso   TRHLPYS128F4284FAB
 Members Of Mayday   Save The Robots   TRGOHWK128F42AA3E8
 Dwight Yoakam   The Sad Side Of Town (LP Version)   TRZJLTL12903C9E411
 The Young Rascals   Groovin'   TRIULHM12903CEBA7B
@@ -15855,7 +15855,7 @@ Kenny Rogers   Ruby_ Don't Take Your Love To Town   TRONBTZ128F9351E80
 The Nextmen / Alice Russell   Let It Roll   TRTZAKQ128F42BA7B6
 Adam Barta   I Told Her (A Cappella)   TRQPNQH128F42971DD
 Led Zeppelin   What Is And What Should Never Be  (Album Version)   TRHAUML128F429897F
-Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I.   Allegro   TRPAPLW128EF341EDE
+Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I. Allegro   TRPAPLW128EF341EDE
 KT Tunstall   Another Place To Fall   TRMAEGR128F14554A0
 Secret Service   Jo-Anne Jo-Anne   TRPZATM128F429F818
 Radiohead   Million Dollar Question   TRRLNLO128F9310CD4
@@ -16827,7 +16827,7 @@ Randy Travis   This Is Me (Album Version)   TRTJGQX128F92FEC21
 Edison Lighthouse   Spirit in the Sky   TRHUICW12903CDEE34
 Garou   You Can Leave Your Hat On   TRJZAVM128F427986A
 Matt Pond PA   In An Aeroplane Over The Sea (LP Version)   TRQGFOY128F1491F3D
-Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I.   Allegro   TRXWTXN128F14889C8
+Sir Neville Marriner/Academy of St Martin-in-the-Fields   Serenade No. 13 in G_ 'Eine kleine Nachtmusik' K525 (1997 Digital Remaster): I. Allegro   TRXWTXN128F14889C8
 Santana   (Da Le) Yaleo   TRERKKY12903CF4465
 Shayne Ward   That's My Goal   TRPOJNO128F42AE435
 Babbie Mason   The Peace Of The Lord (Live LP Version)   TRTBFRR128F429A38F
@@ -17935,7 +17935,7 @@ Die Inselfeger   Der Uh-Ah Mix   TRSGLOM12903CB4A2A
 Arcadia   All Out Of Love   TRIQJVH128F423033C
 D.Lewis_ Emix   Rusty   TRLEACU128F930E694
 Creedence Clearwater Revival   It's Just A Thought   TROGDYO128F424CDE7
-Royal Philharmonic Orchestra/Yehudi Menuhin   Symphonie fantastique Op. 14: IV.    Marche au supplice   TRQVCDX128F14A87A7
+Royal Philharmonic Orchestra/Yehudi Menuhin   Symphonie fantastique Op. 14: IV. Marche au supplice   TRQVCDX128F14A87A7
 Crests   16 Candles   TRRJAAE12903CD29CF
 Mickie Krause   Laudato Si (Odlf Riu Palace Mix)   TRITTXZ128F427B71E
 Emmylou Harris   Hickory Wind (Remastered LP Version)   TRAWXQQ128E07856F0
@@ -18551,8 +18551,8 @@ Travis   Why Does It Always Rain On Me?   TRCKBMN128F93583E1
 Kelly Clarkson   Since U Been Gone   TRBTRAD128F42A964C
 Celtic Woman   Pie Jesu   TRHLDFV128F930D875
 Garbage   The World Is Not Enough (Re-mastered 2007)   TRJMBZN128F429B7B6
-Solomon   Piano Sonata No. 11 in A K331/300i (2008 Digital Remaster): I.    Tema con variazoni   TRMOEPN128F4269A21
-Sandi Patty   Bethlehem Morning   - Album Version   TRPFAMG128F4239125
+Solomon   Piano Sonata No. 11 in A K331/300i (2008 Digital Remaster): I. Tema con variazoni   TRMOEPN128F4269A21
+Sandi Patty   Bethlehem Morning - Album Version   TRPFAMG128F4239125
 Baltimora   Tarzan Boy (Album Version)   TRLHDSL12903CEBF5D
 Angel Stoxx   Invasion   TRXEIFP12903CE0ABB
 Alphaville   Dance With Me   TRDJLFT128E0786E39
@@ -20038,7 +20038,7 @@ Matt Bianco   Yeh Yeh   TRUFMSK128F9335254
 Jet Black Stare   Next To Me   TREJOMJ128F9336E6C
 Real Life   Blue Monday   TRJXTZF128F9341008
 Pee Wee Crayton   Blues Before Dawn   TRWIDXZ128F146B1D3
-Martha Argerich/Sergei Nakariakov   Fantasiestücke for clarinet and piano Op. 73: I.   Zart und mit Ausdruck   TRLYYVH128F42347D6
+Martha Argerich/Sergei Nakariakov   Fantasiestücke for clarinet and piano Op. 73: I. Zart und mit Ausdruck   TRLYYVH128F42347D6
 Roberto Vecchioni   Luci A San Siro   TRNCJHB128F9343051
 Yo La Tengo   Hanky Panky Nohow   TRDBVOX128F429E938
 Max Richter   Taxi And APC   TRUYUHC128F42BA267
@@ -20481,7 +20481,7 @@ Michel Fuentes   One More Time   TRFECBT128F428C063
 The Corrs   I Never Loved You Anyway ( LP Version )   TRUMHPV128E0787314
 Doug Stone   Addicted To A Dollar   TRAYZCK128F4284BA1
 Fertile Ground   Illumination   TRITYIQ128F92D1DCC
-Solomon   Piano Sonata No. 14 in C sharp minor Op. 27 No. 2 "Moonlight" (2008 Digital Remaster): III.    Presto agitato - Adagio - Presto agitato   TRSGFNE128F42699CC
+Solomon   Piano Sonata No. 14 in C sharp minor Op. 27 No. 2 "Moonlight" (2008 Digital Remaster): III. Presto agitato - Adagio - Presto agitato   TRSGFNE128F42699CC
 L'Orchestra Cinematique   Theme from "JFK   TROBCDS12903CB028B
 Limahl   Never Ending Story (2009 Digital Remaster)   TRVADGM12903CCC02A
 Marquess   Lucia [Alternative Radiomix]   TRRHPYN128F92D8165
