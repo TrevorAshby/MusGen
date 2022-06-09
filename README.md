@@ -1,5 +1,5 @@
 # MusGen
-A repository of the Music Transformer and Neural Transposer designed to aide Chatbots evoke emotion through deterministically keyed music. 
+A repository of the Music Transformer and Neural Transposer designed to be able to generate music in a relative major/minor depending on input.
 
 ## Script Usage
 - <b>train_transformer.py</b>: <i> Located in /src/libs/.</i>
