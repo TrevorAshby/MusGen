@@ -1,7 +1,21 @@
 # MusGen
 A repository of the Music Transformer and Neural Transposer designed to aide Chatbots evoke emotion through deterministically keyed music. 
 
-
+## Script Usage
+- <b>train_transformer.py</b>: <i> Located in /src/libs/.</i>
+  - Arguments:
+    - <i>numpy_path: A path to the .npy training files to be used. Default=../numpy_path</i>
+    - <i>save_path: A path where the model should be saved. Default=../models</i>
+    - <i>model_name: The name that the model should be saved under. Default={lr}_{trainer}_{epochs}</i>
+    - <i>epochs: The number of epochs that the model should be trained for. Default=10</i>
+    - <i>dset_dim: The subsection length to split dataset songs into. i.e. context window. Default=150</i>
+    - <i>d_model: The dimention of the model. Default=128</i>
+    - <i>num_layers: The number of layers within the Transformer. Default=2</i>
+    - <i>trainer: The name of the person who trained the model. Default=MusGen</i>
+    - <i>lr: The learning rate to be used in training. Default=0.6 </i>
+    - <i>print_every: The epoch step number that when reached, prints training details out to console. Default=200</i>
+  - Usage:
+    - <i>python3 train_transformer.py --arg1 arg1val --arg2 arg2val ... etc.</i>
 
 
 ## File Structure
