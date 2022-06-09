@@ -48,7 +48,7 @@ def run_epoch(data_iter, model, loss_compute, print_every):#, bad_idxs):
             loss = loss_compute(out, trg_y, ntokens.item())
 
             total_loss += loss
-            total_tokens += ntokens
+            # total_tokens += ntokens
             tokens += ntokens
             if i % print_every == 1:
                 collection_of_losses.append(torch.div(loss,ntokens).cpu())
@@ -59,7 +59,7 @@ def run_epoch(data_iter, model, loss_compute, print_every):#, bad_idxs):
                 tokens = 0
         except:
             continue
-        
+        total_tokens += ntokens
         i += 1
     return (total_loss / total_tokens), collection_of_losses
 
