@@ -95,7 +95,7 @@ if __name__ == "__main__":
     arg_parser.add_argument("--num_layers", help="The number of layers within the Transformer. Default=2", default=2, type=int)
     arg_parser.add_argument("--trainer", help="The name of the person who trained the model. Default=MusGen", default="MusGen")
     arg_parser.add_argument("--lr", help="The learning rate to be used in training. Default=0.6", default=0.6, type=float)
-    arg_parser.add_argument("--print_every", help="The epoch step number that when reached, prints training details out to console. Default=200", default=200)
+    arg_parser.add_argument("--print_every", help="The epoch step number that when reached, prints training details out to console. Default=200", default=200, type=int)
 
     args = arg_parser.parse_args()
 
