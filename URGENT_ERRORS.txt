@@ -1,0 +1,113 @@
+ERROR 1:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+trevor@wyrmling:~/Desktop/MusGen/src/libs$ python3 train_transformer.py --epochs 1 --d_model 256  --num_layers 3 --trainer trevor --lr 0.001 --print_every 800
+/home/trevor/.local/lib/python3.8/site-packages/torch/nn/_reduction.py:43: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+/home/trevor/Desktop/MusGen/src/libs/music_transformer.py:269: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+  nn.init.xavier_uniform(p)
+EPOCH:  0
+/pytorch/torch/csrc/utils/python_arg_parser.cpp:756: UserWarning: This overload of nonzero is deprecated:
+        nonzero(Tensor input, *, Tensor out)
+Consider using one of the following signatures instead:
+        nonzero(Tensor input, *, bool as_tuple)
+        epoch Step: 1/9636 Loss: 6.161285 Tokens per Sec: 46953.949219
+        epoch Step: 801/9636 Loss: 2.655051 Tokens per Sec: 51158.085938
+        epoch Step: 1601/9636 Loss: 1.722035 Tokens per Sec: 51076.617188
+        epoch Step: 2401/9636 Loss: 1.888880 Tokens per Sec: 50813.988281
+
+Traceback (most recent call last):
+  File "train_transformer.py", line 119, in <module>
+    myModel, losses = train_my_model(epochs, d_model, num_layers, lr, print_every)
+
+  File "train_transformer.py", line 81, in train_my_model
+    totalLoss_div_totalTokens, collection_of_losses_inp = run_epoch(the_train_data, myModel, SimpleLossCompute(myModel.generator, criterion, model_opt), print_every)#, bad_idxs)
+
+  File "train_transformer.py", line 46, in run_epoch
+    out, w2 = model.forward(batch, trg, src_mask, trg_mask)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 27, in forward
+    return self.decode(self.encode(src, src_mask), src_mask, tgt, tgt_mask)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 35, in encode
+    return self.encoder(self.src_embed(src), src_mask)
+  
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 91, in forward
+    x = layer(x, mask)
+  
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 60, in forward
+    x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, mask))
+  
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 106, in forward
+    return x + self.dropout(sublayer(self.norm(x)))
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 60, in <lambda>
+    x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, mask))
+  
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 185, in forward
+    [l(x).view(nbatches, -1, self.h, self.d_k).transpose(1, 2)
+  
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 185, in <listcomp>
+    [l(x).view(nbatches, -1, self.h, self.d_k).transpose(1, 2)
+
+RuntimeError: cannot reshape tensor of 0 elements into shape [0, -1, 8, 32] because the unspecified dimension size -1 can be any value and is ambiguous
+
+-----------------------------------------------------------------
+THE PROBLEM OCCURS WHEN TRYING TO PASS THE QUERY, KEY, AND VALUE THROUGH LINEARS. 
+    - THE OUTPUT FROM THE LINEARS IS AN EMPTY TENSOR?
+    - OR ARE ANY OF THE INPUT QUERY, KEY, AND VALUE EMPTY?
+    - OR IS NBATCHES 0?
+
+THE ABOVE PROBLEM IS CALLED IN THE ENCODER LAYER
+
+THE ABOVE PROBLEM IS CALLED WHEN PASSING INPUT INTO THE ENCODER
+
+COULD IT BE A MASK SIZING ISSUE?
+
+-----------------------------------------------------------------
+query:  tensor([], device='cuda:0', size=(0, 150, 256), grad_fn=<AddBackward0>)
+key:  tensor([], device='cuda:0', size=(0, 150, 256), grad_fn=<AddBackward0>)
+value:  tensor([], device='cuda:0', size=(0, 150, 256), grad_fn=<AddBackward0>)
+Traceback (most recent call last):
+  File "train_transformer.py", line 119, in <module>
+    myModel, losses = train_my_model(epochs, d_model, num_layers, lr, print_every)
+  File "train_transformer.py", line 81, in train_my_model
+    totalLoss_div_totalTokens, collection_of_losses_inp = run_epoch(the_train_data, myModel, SimpleLossCompute(myModel.generator, criterion, model_opt), print_every)#, bad_idxs)
+  File "train_transformer.py", line 46, in run_epoch
+    out, w2 = model.forward(batch, trg, src_mask, trg_mask)
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 27, in forward
+    return self.decode(self.encode(src, src_mask), src_mask,
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 35, in encode
+    return self.encoder(self.src_embed(src), src_mask)
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 91, in forward
+    x = layer(x, mask)
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 60, in forward
+    x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, mask))
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 106, in forward
+    return x + self.dropout(sublayer(self.norm(x)))
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 60, in <lambda>
+    x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, mask))
+  File "/home/trevor/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 185, in forward
+    [l(x).view(nbatches, -1, self.h, self.d_k).transpose(1, 2)
+  File "/home/trevor/Desktop/MusGen/src/libs/music_transformer.py", line 185, in <listcomp>
+    [l(x).view(nbatches, -1, self.h, self.d_k).transpose(1, 2)
+RuntimeError: cannot reshape tensor of 0 elements into shape [0, -1, 8, 32] because the unspecified dimension size -1 can be any value and is ambiguous
