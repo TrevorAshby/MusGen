@@ -177,9 +177,9 @@ class MultiHeadedAttention(nn.Module):
             # Same mask applied to all h heads.
             mask = mask.unsqueeze(1)
         nbatches = query.size(0)
-        #print('query: ', query)
-        #print('key: ', key)
-        #print('value: ', value)
+        print('query: ', query)
+        print('key: ', key)
+        print('value: ', value)
         # 1) Do all the linear projections in batch from d_model => h x d_k 
         query, key, value = \
             [l(x).view(nbatches, -1, self.h, self.d_k).transpose(1, 2)
@@ -214,10 +214,6 @@ class Embeddings(nn.Module):
         self.d_model = d_model
 
     def forward(self, x):
-        #print("IN EMBEDDINGS")
-        #print("x.shape: ", x.shape)
-        #print("lut: ", self.lut) # THIS LUT FORWARD IS CAUSING MY ISSUES
-        #print("Embedding.shape: ", self.lut(x).shape)
         return self.lut(x) * math.sqrt(self.d_model)
 
 # ------------------------------------ POSITIONAL ENCODING ----------------------------------------
@@ -238,8 +234,6 @@ class PositionalEncoding(nn.Module):
         self.register_buffer('pe', pe)
         
     def forward(self, x):
-        #print('x: ', x.shape)
-        #print('pe stuff: ', self.pe[:, :x.size(1)].shape)
         x = x + Variable(self.pe[:, :x.size(1)], 
                          requires_grad=False)
         return self.dropout(x)

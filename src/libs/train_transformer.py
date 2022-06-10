@@ -31,34 +31,34 @@ def run_epoch(data_iter, model, loss_compute, print_every):#, bad_idxs):
         #out, w2 = model.forward(batch.src, batch.trg, 
         #                    batch.src_mask, batch.trg_mask)
         #print('ITERATION: ', _)
-        try:
-            batch = batch.cuda()
-            batch = batch.long()
-            batch = batch.squeeze(0)
-            PAD = 0
-            trg = batch[:,:-1]
-            trg_y = batch[:, 1:]
-            src_mask = (batch != PAD).unsqueeze(-2)
-            trg_mask = (trg != PAD).unsqueeze(-2)
-            trg_mask = trg_mask & Variable(subsequent_mask(trg.size(-1)).type_as(trg_mask.data))
-            ntokens = (trg_y != PAD).data.sum()
-            
-            out, w2 = model.forward(batch, trg, src_mask, trg_mask)
-            #print("HEREEE")
-            loss = loss_compute(out, trg_y, ntokens.item())
+        #try:
+        batch = batch.cuda()
+        batch = batch.long()
+        batch = batch.squeeze(0)
+        PAD = 0
+        trg = batch[:,:-1]
+        trg_y = batch[:, 1:]
+        src_mask = (batch != PAD).unsqueeze(-2)
+        trg_mask = (trg != PAD).unsqueeze(-2)
+        trg_mask = trg_mask & Variable(subsequent_mask(trg.size(-1)).type_as(trg_mask.data))
+        ntokens = (trg_y != PAD).data.sum()
+        
+        out, w2 = model.forward(batch, trg, src_mask, trg_mask)
+        #print("HEREEE")
+        loss = loss_compute(out, trg_y, ntokens.item())
 
-            total_loss += loss
-            # total_tokens += ntokens
-            tokens += ntokens
-            if i % print_every == 1:
-                collection_of_losses.append(torch.div(loss,ntokens).cpu())
-                elapsed = time.time() - start
-                print("\tepoch Step: %d/%d Loss: %f Tokens per Sec: %f" %
-                        (i, len(data_iter), torch.div(loss,ntokens), tokens / elapsed))
-                start = time.time()
-                tokens = 0
-        except:
-            continue
+        total_loss += loss
+        # total_tokens += ntokens
+        tokens += ntokens
+        if i % print_every == 1:
+            collection_of_losses.append(torch.div(loss,ntokens).cpu())
+            elapsed = time.time() - start
+            print("\tepoch Step: %d/%d Loss: %f Tokens per Sec: %f" %
+                    (i, len(data_iter), torch.div(loss,ntokens), tokens / elapsed))
+            start = time.time()
+            tokens = 0
+        #except:
+        #    continue
         total_tokens += ntokens
         i += 1
     return (total_loss / total_tokens), collection_of_losses
