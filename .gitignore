@@ -3,3 +3,14 @@ __pycache__
 .ipynb_checkpoints
 src/libs/temp/*.mid
 src/libs/temp/*.wav
+src/wav_data_collections/wav_0_to_200
+
+src/wav_data_collections/wav_200_to_400
+src/wav_data_collections/wav_400_to_600
+src/wav_data_collections/wav_600_to_1200
+src/wav_data_collections/wav_1200_to_2400
+src/wav_data_collections/wav_2400_to_48200
+src/wav_data_collections/wav_4800_to_6000
+src/wav_data_collections/wav_6000_to_7200
+src/wav_data_collections/wav_7200_to_8400
+src/wav_data_collections/wav_8400_to_10000
