@@ -14,3 +14,4 @@ src/wav_data_collections/wav_4800_to_6000
 src/wav_data_collections/wav_6000_to_7200
 src/wav_data_collections/wav_7200_to_8400
 src/wav_data_collections/wav_8400_to_10000
+src/neural_mode_classifier/Moods/
